@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../../Fonts/static/Montserrat-Medium.ttf);
+}
+
+* {
+    font-family: Montserrat;
+}
+
+body > p:first-child {
+    text-transform: uppercase;
+}
+
+li {
+    margin-left: 70px;
+}
+
+.grey-txt {
+    color: grey;
+}
+
+.violet-txt {
+    color: darkviolet;
+}
+
+li {
+    line-height: 0.9em;
+}
