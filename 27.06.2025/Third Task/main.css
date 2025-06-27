@@ -1,0 +1,53 @@
+ol {
+    background-color: #ef9cae;
+    width: 550px;
+    height: 245px;
+    margin: 0 auto;
+    padding-inline-start: 0px;
+    padding-top: 17px;
+}
+
+
+li {
+    color: white;
+    background-color: #c66377;
+    list-style-position: inside;
+    width: 500px;
+    margin: 8px auto;
+    line-height: 2rem;
+    padding-left: 10px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+p {
+    display: inline-block;
+    width: 50px;
+    height: 32px;
+    background-color: #9b334a;
+    text-align: center;
+    margin-left: 5px;
+}
+
+body {
+    margin-top: 40px;
+}
+
+#apple {
+    width: 60px;
+}
+
+#orange {
+    width: 75px;
+}
+
+#pineapple {
+    width: 90px;
+}
+
+#cherry {
+    width: 70px;
+}

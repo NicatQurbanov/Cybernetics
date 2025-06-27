@@ -1,0 +1,24 @@
+* {
+ font-family: Sniglet, sans-serif;
+ 
+ }
+
+li {
+ list-style-image: url('./icons/arrow.png');
+}
+
+.winter-icon {
+ list-style-image: url('./icons/winter.png');
+}
+
+.autumn-icon {
+ list-style-image: url('./icons/autumn.png');
+}
+
+.spring-icon {
+ list-style-image: url('./icons/spring.png');
+}
+
+.summer-icon {
+ list-style-image: url('./icons/summer.png');
+}

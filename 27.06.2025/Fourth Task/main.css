@@ -1,0 +1,37 @@
+sup {
+ color: grey;
+}
+
+@font-face {
+ font-family: Montserrat;
+ src: url(../../Fonts/static/Montserrat-Medium.ttf);
+}
+
+* {
+ font-family: Montserrat;
+ box-sizing: border-box;
+}
+
+li > p:first-child {
+ text-transform: uppercase;
+ padding: 10px 0px 10px 40px;
+ margin-bottom: 0px;
+ background-color: #0e494f;
+}
+
+li p {
+ font-size: 18px;
+ color: white;
+}
+
+.paragraph {
+ background-color: #246166;
+ margin-top: 0px;
+ padding: 20px 25px;
+}
+
+ul {
+ margin: 50px auto;
+ padding-inline-start: 0px;
+ 
+}
